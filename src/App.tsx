@@ -22,7 +22,7 @@ import TokenCard from "components/TokenCard";
 
 const prefixUrl = `https://ipfs.io/ipfs`;
 const AINIGHT_CONTRACT_ADDRESS =
-  "QmPqC5WCpy8oymNaUQqrW2dx4XdT6F8V1YcKnuWswsWpi5";
+  "bafybeie3u3w6d7v2wwwglyfyivenlmmkpymawmjui75ake4fzpzwupalju";
 
 const useGetTokenMedata = () => {
   const {
